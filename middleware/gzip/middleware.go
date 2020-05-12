@@ -3,12 +3,14 @@ package gzip
 import (
 	"bytes"
 	"compress/gzip"
-	"context"
 	"io/ioutil"
 	"net/http"
 	"strconv"
 	"strings"
 	"sync"
+
+	/* instead of 'context' because goa uses golang.org/x/net/context which throws a compile error otherwise */
+	"golang.org/x/net/context"
 
 	"github.com/goadesign/goa"
 )
