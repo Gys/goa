@@ -3,9 +3,9 @@ package apidsl_test
 import (
 	"strconv"
 
-	. "github.com/goadesign/goa/design"
-	. "github.com/goadesign/goa/design/apidsl"
-	"github.com/goadesign/goa/dslengine"
+	. "github.com/Gys/goa/design"
+	. "github.com/Gys/goa/design/apidsl"
+	"github.com/Gys/goa/dslengine"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

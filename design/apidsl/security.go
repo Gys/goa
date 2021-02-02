@@ -1,8 +1,8 @@
 package apidsl
 
 import (
-	"github.com/goadesign/goa/design"
-	"github.com/goadesign/goa/dslengine"
+	"github.com/Gys/goa/design"
+	"github.com/Gys/goa/dslengine"
 )
 
 // Security can be used in: API, Action, Files, Resource

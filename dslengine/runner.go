@@ -42,10 +42,10 @@ type (
 
 func init() {
 	dslPackages = map[string]bool{
-		"github.com/goadesign/goa/":            true,
-		"github.com/goadesign/goa/middleware/": true,
-		"github.com/goadesign/goa/encoding/":   true,
-		"github.com/goadesign/goa/logging/":    true,
+		"github.com/Gys/goa/":            true,
+		"github.com/Gys/goa/middleware/": true,
+		"github.com/Gys/goa/encoding/":   true,
+		"github.com/Gys/goa/logging/":    true,
 	}
 }
 

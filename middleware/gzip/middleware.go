@@ -12,7 +12,7 @@ import (
 	/* instead of 'context' because goa uses golang.org/x/net/context which throws a compile error otherwise */
 	"golang.org/x/net/context"
 
-	"github.com/goadesign/goa"
+	"github.com/Gys/goa"
 )
 
 // These compression constants are copied from the compress/gzip package.

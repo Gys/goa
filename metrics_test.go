@@ -3,7 +3,7 @@ package goa_test
 import (
 	"time"
 
-	"github.com/goadesign/goa"
+	"github.com/Gys/goa"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

@@ -6,7 +6,7 @@ import (
 
 	"context"
 
-	"github.com/goadesign/goa"
+	"github.com/Gys/goa"
 )
 
 // Helper that sets up a "working" service

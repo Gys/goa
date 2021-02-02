@@ -5,12 +5,12 @@ import (
 	"encoding/json"
 
 	"github.com/go-openapi/loads"
-	_ "github.com/goadesign/goa-cellar/design"
-	. "github.com/goadesign/goa/design"
-	. "github.com/goadesign/goa/design/apidsl"
-	"github.com/goadesign/goa/dslengine"
-	genschema "github.com/goadesign/goa/goagen/gen_schema"
-	genswagger "github.com/goadesign/goa/goagen/gen_swagger"
+	_ "github.com/Gys/goa-cellar/design"
+	. "github.com/Gys/goa/design"
+	. "github.com/Gys/goa/design/apidsl"
+	"github.com/Gys/goa/dslengine"
+	genschema "github.com/Gys/goa/goagen/gen_schema"
+	genswagger "github.com/Gys/goa/goagen/gen_swagger"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )
