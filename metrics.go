@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	metrics "github.com/armon/go-metrics"
+	metrics "github.com/Gys/go-metrics"
 )
 
 const (
